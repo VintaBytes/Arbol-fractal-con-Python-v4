@@ -7,7 +7,7 @@ Para ejecutarlo, simplemente guarda el código en un archivo y ejecútalo en un 
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
 
 ## Resultado
-<img src="https://github.com/VintaBytes/Arbol-fractal-con-Python-v3/blob/main/lsystem-22.png?raw=true" width="640px">
+<img src="https://github.com/VintaBytes/Arbol-fractal-con-Python-v4/blob/main/lsystem-23.png?raw=true" width="640px">
 
 ## Descripción del Código
 
